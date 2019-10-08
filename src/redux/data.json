@@ -1,0 +1,74 @@
+{
+  "candidates": [
+    {
+      "id": 1,
+      "fullName": "Hortense Beier",
+      "role": "Engineer",
+      "connectedOn": "2019-02-01",
+      "status": "Screen"
+    },
+    {
+      "id": 2,
+      "fullName": "Opal Schowalter",
+      "role": "Sales",
+      "connectedOn": "2019-03-10",
+      "status": "Explored"
+    },
+    {
+      "id": 3,
+      "fullName": "Jess Krajcik DDS",
+      "role": "Engineer",
+      "connectedOn": "2019-03-11",
+      "status": "Scheduled"
+    },
+    {
+      "id": 4,
+      "fullName": "Alan Lehner",
+      "role": "Customer Support",
+      "connectedOn": "2019-04-21",
+      "status": "Hire"
+    },
+    {
+      "id": 5,
+      "fullName": "Isaiah Marks",
+      "role": "Engineer",
+      "connectedOn": "2019-04-21",
+      "status": "Hire"
+    },
+    {
+      "id": 6,
+      "fullName": "Lou Huels",
+      "role": "Sales",
+      "connectedOn": "2019-05-16",
+      "status": "Screen"
+    },
+    {
+      "id": 7,
+      "fullName": "Penelope Glover DVM",
+      "role": "Customer Support",
+      "connectedOn": "2019-06-18",
+      "status": "Scheduled"
+    },
+    {
+      "id": 8,
+      "fullName": "Dasia Krajcik",
+      "role": "Engineer",
+      "connectedOn": "2019-06-18",
+      "status": "Explored"
+    },
+    {
+      "id": 9,
+      "fullName": "Ally Flatley",
+      "role": "Manager",
+      "connectedOn": "2019-06-19",
+      "status": "Scheduled"
+    },
+    {
+      "id": 10,
+      "fullName": "Sofia Schaden",
+      "role": "Engineer",
+      "connectedOn": "2019-07-21",
+      "status": "Screen"
+    }
+  ]
+}
