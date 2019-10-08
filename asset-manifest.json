@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/svitla-test/static/js/main.df51f874.chunk.js",
+    "main.js.map": "/svitla-test/static/js/main.df51f874.chunk.js.map",
+    "runtime-main.js": "/svitla-test/static/js/runtime-main.0dea6347.js",
+    "runtime-main.js.map": "/svitla-test/static/js/runtime-main.0dea6347.js.map",
+    "static/js/2.7c547df0.chunk.js": "/svitla-test/static/js/2.7c547df0.chunk.js",
+    "static/js/2.7c547df0.chunk.js.map": "/svitla-test/static/js/2.7c547df0.chunk.js.map",
+    "index.html": "/svitla-test/index.html",
+    "precache-manifest.f8a2802f2ec4a4cc2fe2793ae2b2a54f.js": "/svitla-test/precache-manifest.f8a2802f2ec4a4cc2fe2793ae2b2a54f.js",
+    "service-worker.js": "/svitla-test/service-worker.js"
+  }
+}
